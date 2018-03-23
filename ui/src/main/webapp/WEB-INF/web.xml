@@ -17,7 +17,7 @@
 	</servlet-mapping>
 
 	<listener>
-		<listener-class>org.vaadin.example.backend.authentication.CDIAwareShiroEnvironmentLoader</listener-class>
+		<listener-class>pl.ddl.todo.authentication.CDIAwareShiroEnvironmentLoader</listener-class>
 	</listener>
 
 	<filter>
